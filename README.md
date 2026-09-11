@@ -9,7 +9,7 @@ An interactive, arcade-styled security awareness training scenario built as a pr
 
 Each sector mixes legitimate, expected requests in with risky ones, testing discernment rather than blanket suspicion. Each sector ends with a checkpoint on whether to alert the Security team — reinforcing that reporting is part of the response, not an optional extra step.
 
-## ▶ [Play the live demo](#) — replace with your github.io URL once Pages is enabled
+## ▶ [Play the live demo](https://geniuswizardsolutions-hub.github.io/Inbox-Invaders-eLearning-Game/)
 
 ## Tech
 
